@@ -12,3 +12,7 @@ this is a paragraph
 >>> block 4
 >>>> block 5
 >>>> BLOCK 6
+
+1. First Item
+2. Second Item
+3. Third Item
